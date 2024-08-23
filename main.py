@@ -82,5 +82,6 @@ group_txn.add_asset_transfer(
     )
 )
 
+# Execute group txn
 group_txn.execute()
 
